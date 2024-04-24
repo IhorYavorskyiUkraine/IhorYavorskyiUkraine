@@ -48,6 +48,10 @@
 ### :mag:How To Reach Me:mag:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fpazhiloypumpinator" alt="Telegram Badge"/>
-  <img src="https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&logoColor=white&link=https%3A%2F%2Ft.me%2Fpazhiloypumpinator" alt="LinkedIn Badge"/>
+  <a href="https://t.me/pazhiloypumpinator">
+    <img src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ihor-yavorskyi-b1906a306/">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
