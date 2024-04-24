@@ -5,8 +5,6 @@
 
 </div>
 
----
-
 <div align="center" id="about">
   
 ### :point_down:About me:point_down:
