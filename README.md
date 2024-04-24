@@ -38,6 +38,7 @@
 ### :fire:My Stats:fire:
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IhorYavorskyiUkraine&theme=dark)](https://git.io/streak-stats)
+  
 </div>
 
 ---
@@ -46,7 +47,7 @@
   
 ### :mag:How To Reach Me:mag:
 
-  <a href="https://t.me/pazhiloypumpinator" id="badges">
-    <img src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+<div align="center">
+  <img src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fpazhiloypumpinator" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&logoColor=white&link=https%3A%2F%2Ft.me%2Fpazhiloypumpinator" alt="LinkedIn Badge"/>
 </div>
